@@ -1,0 +1,10 @@
+standard_column,source_column,description
+permit_date,issue_date,Standardized permit/application/issue date
+permit_type_std,work_type,Standardized permit/building/work type
+neighbourhood_std,neighbourhood,Standardized neighbourhood name
+zoning_std,zoning,Standardized zoning field
+units_added_num,units_added,Numeric units added
+construction_value_num,construction_value,Numeric estimated construction/project value
+work_description_std,,Standardized work description
+latitude_num,latitude,Numeric latitude
+longitude_num,longitude,Numeric longitude
