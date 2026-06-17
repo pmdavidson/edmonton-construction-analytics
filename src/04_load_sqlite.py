@@ -1,10 +1,8 @@
 """Load cleaned Edmonton building permit data into SQLite."""
 
 from __future__ import annotations
-
 import sqlite3
 from pathlib import Path
-
 import pandas as pd
 
 CLEAN_PATH = Path("data/processed/building_permits_clean.csv")

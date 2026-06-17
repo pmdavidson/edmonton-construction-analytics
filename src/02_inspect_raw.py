@@ -1,9 +1,7 @@
 """Inspect raw building permit data before cleaning."""
 
 from __future__ import annotations
-
 from pathlib import Path
-
 import pandas as pd
 
 RAW_PATH = Path("data/raw/building_permits_raw.csv")

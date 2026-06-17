@@ -1,4 +1,5 @@
-"""Clean City of Edmonton building permit data.
+"""
+Clean City of Edmonton building permit data.
 
 The raw dataset column names can change over time. This script:
 - normalizes column names to snake_case
@@ -7,10 +8,8 @@ The raw dataset column names can change over time. This script:
 """
 
 from __future__ import annotations
-
 import re
 from pathlib import Path
-
 import pandas as pd
 
 RAW_PATH = Path("data/raw/building_permits_raw.csv")

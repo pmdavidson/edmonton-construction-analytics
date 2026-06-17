@@ -1,4 +1,5 @@
-"""Download City of Edmonton General Building Permits data.
+"""
+Download City of Edmonton General Building Permits data.
 
 Dataset:
 https://data.edmonton.ca/resource/24uj-dj8v.json
@@ -7,10 +8,8 @@ This script uses Socrata pagination and saves the raw data to CSV.
 """
 
 from __future__ import annotations
-
 import time
 from pathlib import Path
-
 import pandas as pd
 import requests
 

@@ -1,10 +1,8 @@
 """Export dashboard-ready tables from the SQLite database."""
 
 from __future__ import annotations
-
 import sqlite3
 from pathlib import Path
-
 import pandas as pd
 
 DB_PATH = Path("data/processed/edmonton_construction.db")
