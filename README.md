@@ -346,7 +346,7 @@ Planned next steps include:
 
 ## Author
 
-Peter Maxwell
+Peter Davidson
 
 Data Analytics Portfolio Project
 
