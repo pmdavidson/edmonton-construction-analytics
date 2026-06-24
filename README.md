@@ -86,17 +86,25 @@ https://data.edmonton.ca/
 
 Permit volume grew 72%, housing unit creation nearly quadrupled, and construction value more than doubled over the study period.
 
+![Yearly Permit Count](docs/figures/yearly_permit_count.png)
+
+![Yearly Units Added](docs/figures/yearly_units_added.png)
+
 ---
 
 ### 2. Strong Recovery After 2020
 
 Monthly permit activity softened during the late 2010s before recovering sharply around 2021. The 12-month rolling average reached its highest levels in 2024 to 2025, indicating a renewed development cycle.
 
+![Monthly Permit Trend](docs/figures/monthly_permit_trend.png)
+
 ---
 
 ### 3. New Construction Dominates
 
 The two primary new-construction permit categories account for over 100,000 permits and 175,000 housing units added. Edmonton's housing growth is driven by new builds rather than conversions or additions, though interior alterations represent $7.1B in construction value, indicating significant parallel investment in existing building stock.
+
+![Top Permit Types](docs/figures/top_permit_types.png)
 
 ---
 
@@ -110,11 +118,15 @@ The two primary new-construction permit categories account for over 100,000 perm
 
 Chappelle Area, Laurel, Windermere, Secord, and Walker lead all neighbourhoods by units added. These are newer suburban expansion areas on the city's fringe with large-scale residential pipelines.
 
+![Top Neighbourhoods by Units Added](docs/figures/top_neighbourhoods_by_units.png)
+
 ---
 
 ### 6. Strong Seasonal Pattern
 
 June consistently produces the highest permit volume (approximately 23,000) while February produces the lowest (approximately 15,000), closely tracking Edmonton's construction season.
+
+![Permit Seasonality](docs/figures/permit_seasonality.png)
 
 ---
 
